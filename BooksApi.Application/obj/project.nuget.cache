@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tSy5SJcvEJo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ALI PC\\Desktop\\BooksApi\\BooksApi.Application\\BooksApi.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ALI PC\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

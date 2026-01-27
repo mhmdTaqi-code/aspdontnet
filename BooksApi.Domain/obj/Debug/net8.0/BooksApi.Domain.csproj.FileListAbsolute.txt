@@ -1,0 +1,12 @@
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Domain\bin\Debug\net8.0\BooksApi.Domain.deps.json
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Domain\bin\Debug\net8.0\BooksApi.Domain.dll
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Domain\bin\Debug\net8.0\BooksApi.Domain.pdb
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Domain\obj\Debug\net8.0\BooksApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Domain\obj\Debug\net8.0\BooksApi.Domain.AssemblyInfoInputs.cache
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Domain\obj\Debug\net8.0\BooksApi.Domain.AssemblyInfo.cs
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Domain\obj\Debug\net8.0\BooksApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Domain\obj\Debug\net8.0\BooksApi.Domain.sourcelink.json
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Domain\obj\Debug\net8.0\BooksApi.Domain.dll
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Domain\obj\Debug\net8.0\refint\BooksApi.Domain.dll
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Domain\obj\Debug\net8.0\BooksApi.Domain.pdb
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Domain\obj\Debug\net8.0\ref\BooksApi.Domain.dll

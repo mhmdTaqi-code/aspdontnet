@@ -1,0 +1,13 @@
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\bin\Debug\net8.0\BooksApi.Application.deps.json
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\bin\Debug\net8.0\BooksApi.Application.dll
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\bin\Debug\net8.0\BooksApi.Application.pdb
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\obj\Debug\net8.0\BooksApi.Application.csproj.AssemblyReference.cache
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\obj\Debug\net8.0\BooksApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\obj\Debug\net8.0\BooksApi.Application.AssemblyInfoInputs.cache
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\obj\Debug\net8.0\BooksApi.Application.AssemblyInfo.cs
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\obj\Debug\net8.0\BooksApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\obj\Debug\net8.0\BooksApi.Application.sourcelink.json
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\obj\Debug\net8.0\BooksApi.Application.dll
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\obj\Debug\net8.0\refint\BooksApi.Application.dll
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\obj\Debug\net8.0\BooksApi.Application.pdb
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\obj\Debug\net8.0\ref\BooksApi.Application.dll
