@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALI PC\\Desktop\\BooksApi\\BooksApi.API\\BooksApi.API.csproj": {}
+    "C:\\Users\\ALI PC\\Desktop\\BooksApi\\BooksAPi.API\\BooksApi.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALI PC\\Desktop\\BooksApi\\BooksApi.API\\BooksApi.API.csproj": {
+    "C:\\Users\\ALI PC\\Desktop\\BooksApi\\BooksAPi.API\\BooksApi.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALI PC\\Desktop\\BooksApi\\BooksApi.API\\BooksApi.API.csproj",
+        "projectUniqueName": "C:\\Users\\ALI PC\\Desktop\\BooksApi\\BooksAPi.API\\BooksApi.API.csproj",
         "projectName": "BooksApi.API",
-        "projectPath": "C:\\Users\\ALI PC\\Desktop\\BooksApi\\BooksApi.API\\BooksApi.API.csproj",
+        "projectPath": "C:\\Users\\ALI PC\\Desktop\\BooksApi\\BooksAPi.API\\BooksApi.API.csproj",
         "packagesPath": "C:\\Users\\ALI PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALI PC\\Desktop\\BooksApi\\BooksApi.API\\obj\\",
+        "outputPath": "C:\\Users\\ALI PC\\Desktop\\BooksApi\\BooksAPi.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALI PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,6 +53,10 @@
             "FluentValidation.AspNetCore": {
               "target": "Package",
               "version": "[11.3.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
@@ -113,7 +117,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\ALI PC\\Desktop\\BooksApi\\BooksApi.Domain\\BooksApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\ALI PC\\Desktop\\BooksApi\\BooksApi.Domain\\BooksApi.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -260,6 +268,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -270,9 +282,21 @@
               "target": "Package",
               "version": "[8.0.0, )"
             },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.0.1, )"
             }
           },
           "imports": [

@@ -14,6 +14,19 @@ public class UserConfiguration : IEntityTypeConfiguration<User>
             .IsRequired()
             .HasMaxLength(200);
 
+        builder.Property(u => u.Email)
+            .IsRequired()
+            .HasMaxLength(256);
+        builder.HasIndex(u => u.Email).IsUnique();
+
+        builder.Property(u => u.PasswordHash)
+            .IsRequired();
+
+        builder.Property(u => u.Role)
+            .IsRequired()
+            .HasMaxLength(50)
+            .HasDefaultValue("User");
+
         builder.HasMany(u => u.Loans)
             .WithOne(l => l.User)
             .HasForeignKey(l => l.UserId)

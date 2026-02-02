@@ -11,3 +11,6 @@ C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\obj\Debug\net8.0\BooksApi.
 C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\obj\Debug\net8.0\refint\BooksApi.Application.dll
 C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\obj\Debug\net8.0\BooksApi.Application.pdb
 C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\obj\Debug\net8.0\ref\BooksApi.Application.dll
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\bin\Debug\net8.0\BooksApi.Domain.dll
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\bin\Debug\net8.0\BooksApi.Domain.pdb
+C:\Users\ALI PC\Desktop\BooksApi\BooksApi.Application\obj\Debug\net8.0\BooksApi.D78FE239.Up2Date
